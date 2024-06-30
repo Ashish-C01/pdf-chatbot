@@ -12,7 +12,7 @@ load_dotenv()
 
 genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
 st.title('Document Q&A')
-data_uploaded=False
+
 
 def get_chain():
     model = ChatGoogleGenerativeAI(model='gemini-1.5-pro-latest', temperature=0.1)
