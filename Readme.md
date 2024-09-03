@@ -1,4 +1,4 @@
-# PDF CHATBOT [Application](https://huggingface.co/spaces/ashish-001/PDF-QA-CHATBOT)
+# PDF CHATBOT ([Live Application](https://huggingface.co/spaces/ashish-001/PDF-QA-CHATBOT))
 This project implements a Retrieval-Augmented Generation (RAG) system designed to enhance query responses by leveraging advanced natural language understanding and efficient data retrieval mechanisms. The system integrates GEMINI as the language model and FAISS as the vector store, streamlined using LangChain to ensure seamless and optimized performance.
 
 ### Key Features
